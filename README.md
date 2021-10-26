@@ -1,4 +1,8 @@
-# Next.js + Tailwind CSS Example
+# Next.js + Tailwind CSS Example, Firebase V9, Recoil
+
+## Auth0 imlementation (in progress)
+
+https://www.youtube.com/watch?v=yufqeJLP1rI
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
